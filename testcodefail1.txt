@@ -1,0 +1,7 @@
+<JASON> ## Missing {} in between the start/end tags
+
+string str; ## Missing a space between the end of the stmt and the semicolon
+
+str = " help " ; 
+
+<NOSAJ>

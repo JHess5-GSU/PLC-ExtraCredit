@@ -1,0 +1,12 @@
+<JASON> 
+## While loop test case that is going to fail
+{ 
+    int varC = 1 ; 
+
+    ## The Following Line has a Lexical error Due to wrong spell of the Keyword "while"
+    whilA ( varC != 28 ) { 
+        varC = 28 ; 
+    }
+} 
+
+<NOSAJ>
