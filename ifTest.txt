@@ -1,0 +1,10 @@
+<JASON> 
+{ 
+    if ( True ) {
+        varA = 10 ; 
+    } else {
+        varB = 10.10 ; 
+    }
+} 
+<NOSAJ>
+
