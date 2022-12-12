@@ -206,4 +206,4 @@ class Tokenize():
         print()
         print()
 
-Tokenize('ifTest.txt').run('ifTestOutput.txt')
+Tokenize('test1.txt').run('test1Output.txt')

@@ -1,0 +1,12 @@
+<JASON>
+{
+vone = 5 + 5 ;
+vtwo = 6 - 2 ;
+
+if ( vone < vtwo ) {
+    vone = vtwo - 1 ;
+}
+else {
+    vtwo = vtwo - 5 ;
+}
+<NOSAJ>
